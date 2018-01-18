@@ -19,4 +19,5 @@ class MessagesControllerTest extends TestCase
         $controller = new MessagesController();
         $controller->index();
     }
+
 }
